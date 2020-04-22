@@ -12,8 +12,8 @@
 // require('jquery3')
 // require('bootstrap/dist/js/bootstrap.min.js')
 
-import 'bootstrap'
-import './app/javascript/packs/pjt_firstSNS/app/assets/stylesheets/custom.scss'
+import 'bootstrap';
+import '../stylesheets/application';
 //= require_tree .
 //= require jquery3
 //= require popper
