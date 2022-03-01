@@ -6,7 +6,7 @@ ruby '2.6.5'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'bcrypt', '3.1.12'
 gem 'faker',   '1.7.3'
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem "aws-sdk-s3", require: false
